@@ -1,6 +1,6 @@
 
 void main() {
-  // 리스트
+  // 리스트(배열)
   List<int> intList = [3, 14, 23];
   print(intList[1]);
   print(intList[0]);
