@@ -31,9 +31,11 @@ void main() {
   print(no1 is int);    // true
   print(no1 is double);    // false
   print(no1 is num);    // true
+  print("----------------------------------");
 
-
-
+  int no5;
+  // no5="안녕하세요";  // 자료형에 맞는 초기값을 대입해야한다
+  // print(no5);
 
 
 
